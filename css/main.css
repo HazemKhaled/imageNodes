@@ -1,0 +1,26 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+option {
+	text-align: center;
+}
+#image {
+    border: 1px solid;
+}
+.redpoint {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background-color: red;
+}
+.redpointHover {
+    width: 3px;
+    height: 3px;
+    background-color: green;
+}
+.fixed {
+    position: fixed;
+    top: 300px;
+    left: 10px;
+    text-align: center;
+}
